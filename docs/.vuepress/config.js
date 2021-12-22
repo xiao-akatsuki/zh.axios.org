@@ -18,6 +18,19 @@ module.exports = {
             link: 'https://github.com/xiao-akatsuki/axios/pulls'
           },
           {
+            text: 'language',
+            children: [
+              {
+                text: '中文',
+                link: '/',
+              },
+              {
+                text: 'English',
+                link: 'https://xiao-akatsuki.github.io/axios.org/',
+              },
+            ]
+          },
+          {
             text: '版本',
             children: [
               {
