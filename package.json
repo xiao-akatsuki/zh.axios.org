@@ -1,0 +1,16 @@
+{
+  "name": "zh-axios-doc",
+  "version": "1.0.0",
+  "description": "A make it easier for java to send HTTPS",
+  "main": "index.js",
+  "repository": "https://github.com/xiao-akatsuki/zh.axios.org.git",
+  "author": "xiaoxunyao <huchengyea@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.29"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
