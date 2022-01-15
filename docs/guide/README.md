@@ -27,13 +27,13 @@ axios 是一个基于 Promise 的 Java HTTP 客户端。 它是同构的（它�
 <dependency>
   <groupId>io.github.xiao-organization</groupId>
   <artifactId>axios</artifactId>
-  <version>0.0.1</version>
+  <version>1.0.0</version>
 </dependency>
 ```
 :::
 ::: code-group-item Gradle
 ```xml:no-line-numbers
-implementation 'io.github.xiao-organization:axios:0.0.1'
+implementation 'io.github.xiao-organization:axios:1.0.0'
 ```
 :::
 ::::
