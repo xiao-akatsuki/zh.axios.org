@@ -46,7 +46,7 @@ module.exports = {
           '/guide/POSTRequests.md'
         ],
         sidebarDepth: 2,
-        logo: 'https://xiao-akatsuki.github.io/axios.org/logo/logo.png',
+        logo: 'https://xiao-akatsuki.github.io/axios.org/logo/logo.svg',
         repoLabel:'axios',
         repo: 'xiao-akatsuki/axios',
         editLink: false,
